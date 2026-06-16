@@ -6,7 +6,7 @@ This project was developed for **Comp338** (Project 2).
 
 ---
 
-## 🚀 Features
+## Features
 
 * **5-Fold Cross-Validation:** Automatically evaluates the model's performance and calculates the average Accuracy, Precision, and Recall.
 * **Interactive CLI:** A simple command-line interface that allows users to input custom environmental data and get instant crop recommendations.
@@ -14,7 +14,7 @@ This project was developed for **Comp338** (Project 2).
 
 ---
 
-## 📊 Dataset Parameters
+## Dataset Parameters
 
 The model evaluates **7 key inputs** to make a prediction:
 1. **N, P, K:** Nitrogen, Phosphorous, and Potassium ratios in the soil.
@@ -25,7 +25,7 @@ The model evaluates **7 key inputs** to make a prediction:
 
 ---
 
-## 🛠️ Setup & Requirements
+## Setup & Requirements
 
 1. Make sure the **Weka library** (.jar) is added to your project dependencies.
 2. Update the dataset absolute path inside `Main.java` to match your local file location:
